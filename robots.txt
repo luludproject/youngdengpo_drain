@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mapo.the-drain.com/sitemap.xml
+Sitemap: https://youngdengpo.the-drain.com/sitemap.xml
